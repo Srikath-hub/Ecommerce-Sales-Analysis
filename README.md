@@ -1,4 +1,4 @@
-# 🛍️ E-commerce Sales Dashboard 📊
+# 🛍️ E-commerce Sales Analysis
 ## 🎯 Project Objective
 
 To analyze e-commerce sales data using Microsoft Excel and build an interactive dashboard that displays key metrics such as total sales, best-selling products, category-wise performance, and customer demographics. This project demonstrates essential data analysis and visualization skills for entry-level data analysts.
