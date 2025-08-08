@@ -13,12 +13,12 @@ This project focuses on understanding customer orders, sales revenue, and produc
 
 ## 3. Key Features
 
-- 📆 Monthly Sales Trends
-- 🌍 Sales by Country
-- 👤 Sales by Gender
-- 📦 Category-wise Sales
-- 🏆 Top Selling Products
-- 📌 KPIs: Total Revenue, Total Orders, Quantity Sold, Average Order Value
+-  Monthly Sales Trends
+-  Sales by Country
+-  Sales by Gender
+-  Category-wise Sales
+-  Top Selling Products
+-  KPIs: Total Revenue, Total Orders, Quantity Sold, Average Order Value
 
 ---
 
@@ -36,10 +36,11 @@ This project focuses on understanding customer orders, sales revenue, and produc
 - **Top Country**: USA  
 - **Average Order Value**: ₹300
 
-- ## 5.Dashboard 
 
----
+## 5. Dashboard 
 
-## ✅ Final Conclusion
+   <a href="https://github.com/Srikath-hub/Ecommerce-Sales-Analysis/blob/main/Screenshot%202025-08-08%20184349.png">View Dashboard </a>
+
+## 6. Final Conclusion
 
 The Excel dashboard effectively visualizes important business metrics and trends. It provides valuable insights such as top-selling products, high-performing categories, and country-wise sales distribution. This project is a strong showcase of Excel data analysis and dashboarding skills for an entry-level data analyst.
